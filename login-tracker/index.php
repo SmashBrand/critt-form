@@ -11,7 +11,7 @@
     <link href="http://directory.crittendenonline.com/media/css/page-index.css" rel="stylesheet">
     <link href="http://directory.crittendenonline.com/media/js/subscriber/chosen/chosen/chosen.css" rel="stylesheet">
 
-    
+
   <link href="http://directory.crittendenonline.com/media/css/page-login.css" rel="stylesheet">
   <link href="http://directory.crittendenonline.com/media/css/page-login-top-level.css" rel="stylesheet">
 
@@ -45,7 +45,7 @@
         <a class="header-logo" href="/"></a>
 
         <div class="header-directory-options">
-        
+
 
 
         </div><!-- .header-directory-options -->
@@ -53,9 +53,9 @@
         <div class="header-account-functions">
 
             <ul>
-                
+
                     <li class="header-account-functions-login"><a href="http://directory.crittendenonline.com/accounts/login/">Login</a></li>
-                
+
             </ul>
 
         </div><!-- .header-account-functions -->
@@ -64,9 +64,9 @@
 
 </header>
 
-        
 
-        
+
+
 
 
 <div class="container-fluid content-area" role="main">
@@ -74,27 +74,27 @@
   <div class="row-fluid center">
 
     <div class="span12">
-      
+
       <div class="container-fluid content-area login" role="main">
         <div class="row-fluid center">
           <div class="span12">
 
             <h1 class="login">Get Free Access</h1>
-            
+
 
             <div class="login-box login-or-join center">
 
               <script type="text/javascript">var submitted=false;</script>
               	<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"  onload="if(submitted) {window.location='confirmation.html';}"></iframe>
-              <form action="https://docs.google.com/forms/d/1nzaq42Ip0djhqkMqxnIzZISM8ucAJTLsz-0aT2Cr-D8/formResponse" method="post" id="ss-form" target="redirect" onsubmit="submitted=true;" name="ss-form">
-                
+              <form action="https://docs.google.com/forms/d/1nzaq42Ip0djhqkMqxnIzZISM8ucAJTLsz-0aT2Cr-D8/formResponse" method="post" id="ss-form" target="hidden_iframe" onsubmit="submitted=true;" name="ss-form">
+
 
                 <div class="input-left">
-                  
+
                   <input id="firstname" name="entry.1599794928" type="text" placeholder="First Name">
                   <input id="lastname" name="entry.1069437311" type="text" placeholder="Last Name">
 
-                  
+
                   <input id="email" name="entry.182930085" type="text" placeholder="email">
 
                   <input type="hidden" id="location" name="entry.306861120" value="Boise, ID" />
@@ -123,8 +123,8 @@
           </div><!-- .span12 -->
         </div><!-- .row-fluid -->
       </div>
-      
-      
+
+
 
       <div class="center login-help-options">
 
@@ -207,7 +207,7 @@
 </script>
 
 
-        
+
         	<script type="text/javascript">
 
   var current_dir = get_current_directory();
@@ -257,9 +257,9 @@
     return false;
   }
 </script>
-        
 
- 
+
+
   <script src="http://directory.crittendenonline.com/media/js/login_page.js" type="text/javascript"></script>
 
 
